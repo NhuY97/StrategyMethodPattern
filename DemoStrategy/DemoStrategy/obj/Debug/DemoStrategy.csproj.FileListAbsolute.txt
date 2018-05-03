@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\bin\Debug\DemoStrategy.exe.config
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\bin\Debug\DemoStrategy.exe
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\bin\Debug\DemoStrategy.pdb
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.FormMain.resources
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.Properties.Resources.resources
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.csproj.GenerateResource.cache
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.exe
+E:\Visual Studio Projects\DemoStrategy\DemoStrategy\obj\Debug\DemoStrategy.pdb
